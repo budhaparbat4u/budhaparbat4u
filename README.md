@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @budhaparbat4u
 - 👀 I’m interested in ML/CV
-- 🌱 I’m currently learning numpy,opencv,image segmentation
+- 🌱 I’m currently learning numpy,opencv
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: erparbatbudha@gmail.com
 
